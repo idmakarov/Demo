@@ -1,9 +1,5 @@
 import hello
 
-def main():
-    hello.hello()
-    hello.hoay()
-    return 0
+hello.hello()
+hello.hoay()
 
-if __name__ == __main__:
-    main()
