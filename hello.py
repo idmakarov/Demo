@@ -1,3 +1,10 @@
+"""
+
+This is module performing simple scenario.
+Bot asks you and you can write some answers in prompt.
+
+"""
+
 def hello():
     print("Hello, what is your name?")
     name = input("My name is ")
